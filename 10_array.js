@@ -1,3 +1,5 @@
+
+
 var arrayOfRollNumbers = [67, 56, 78, 90, 60, 90, 40];
 console.log(`Type of array: ${typeof arrayOfRollNumbers}`);
 
