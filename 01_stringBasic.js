@@ -24,8 +24,4 @@ console.log("-------------------------------------------------------");
 
      console.log("Total Character Length hobby3:",hobby3length);
 } 
-
-    
-
-
 stringBasics();

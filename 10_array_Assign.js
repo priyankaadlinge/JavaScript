@@ -35,6 +35,6 @@ console.log(`6] Replace Element Orange with kiwi =====>${arrayFruits}`);
 const oneToFour = arrayFruits.slice(1,4);
 console.log(`7] Index one To Index Four =====>${oneToFour}`);
 
-var arrayFruits = ["Apple","Mango","Water Melon"];
+var arrayFruits = ["Dragon","Water Melon" ,"Pinapple"];
 let lengthOfArray = arrayFruits.length;
 console.log(`8] Length of array is : ${lengthOfArray}`);

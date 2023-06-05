@@ -1,4 +1,5 @@
-var string1 ="JavaScript";
+
+ var string1 ="JavaScript";
  var string2 = "Google Chrome";
  var string3 = "Developer Smart";
 
